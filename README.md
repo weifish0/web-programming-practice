@@ -1,2 +1,2 @@
 # web-programming-practice
-Improve my web programming abilities by making lots of small website projects
+Improve my web programming abilities by making some small website projects
