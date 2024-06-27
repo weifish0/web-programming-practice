@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: aliceblue;
+}
+
+#countNum {
+    text-align: center;
+    font-size: 8em;
+}
+
+#btnContainer {
+    text-align: center;
+}
+
+button {
+    color: antiquewhite;
+    background-color: brown;
+    font-size: 1.5em;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: backgrounder-color 0.25s;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: rgb(77, 30, 30);
+}
