@@ -1,0 +1,26 @@
+body {
+    background-color:blueviolet;
+}
+
+.btnContainer {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#generateBtn {
+    font-size: 3em;
+    border-radius: 5px;
+    padding: 10px 15px;
+    transition: backgrounder-color 0.25s;
+}
+
+button:hover {
+    background-color: rgb(81, 76, 206);
+}
+
+p {
+    text-align: center;
+    font-size: 4em;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
