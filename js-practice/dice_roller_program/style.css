@@ -1,0 +1,31 @@
+#container{
+    font-size: 1.5rem;
+    font-family: "Courier New";
+    text-align: center;
+    font-weight: bold;
+}
+
+button{
+    font-size: 1.5rem;
+    background-color: rgb(59, 137, 255);
+    border: none;
+    border-radius: 10px;
+    padding: 10px 15px;
+    cursor: pointer;
+    color: white;
+}
+
+button:hover{
+    background-color: rgba(59, 137, 255, 0.8);
+}
+
+button:active{
+    background-color: rgba(59, 137, 255, 0.6);
+}
+
+input{
+    font-size: 2rem;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+}
