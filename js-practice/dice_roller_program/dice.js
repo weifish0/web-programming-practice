@@ -1,6 +1,3 @@
-
-
-
 function rollDice(){
     const diceTimes = document.getElementById("diceTimes");
     const diceNumList = document.getElementById("diceNumList");
